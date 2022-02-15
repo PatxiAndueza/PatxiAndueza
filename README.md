@@ -1,14 +1,7 @@
- 
+🚧 My profile page is under construction.
 
-# **UNDER CONSTRCTION**
-- To Do:
+Meanwhile, please take a look to my repositories.
 
-	 - [x] A shabby README.md
-	 - [ ] An actual one
-
-<br><br><br>
-
-![UNDER CONSTRCTION](https://exo.pet/fm/construction_xtra_large.gif)
 
 <!---
 PatxiAndueza/PatxiAndueza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
