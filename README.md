@@ -1,7 +1,4 @@
-🚧 My profile page is under construction.
-
-Meanwhile, please take a look to my repositories.
-
+🚧 UNDER CONSTRUCTION 🚧
 
 <!---
 PatxiAndueza/PatxiAndueza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
